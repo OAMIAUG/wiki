@@ -63,7 +63,7 @@
 * [鸠羽村](jiu-yu.md)
 * [蓝海村 Blue Sea](blue_sea.md)（旧村落）
 * [临冬城 Winterfell](winterfell.md)
-  * [临冬龙榆岭 Dragonhorn](winterfell-dragonhorn.md)（附属于临冬城）
+* [龙榆岭 Dragonhorn](dragonhorn.md)（附属于临冬城）
 * [猫屁市](mao-pi.md)
 * [小泉村 Spring](xiao-quan.md)（旧村落）
 * 雁落平阳
